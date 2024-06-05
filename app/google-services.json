@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "464478026774",
+    "firebase_url": "https://kopi-eb91d-default-rtdb.firebaseio.com",
+    "project_id": "kopi-eb91d",
+    "storage_bucket": "kopi-eb91d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464478026774:android:942a3a733de57394080937",
+        "android_client_info": {
+          "package_name": "com.example.tugas3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVebkFAllLoy1EL_REpJenCOPtRBXSQaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

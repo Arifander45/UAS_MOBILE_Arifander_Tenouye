@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">tugas3</string>
+
+    <string name="kopi">Jika Anda tertarik dalam deskripsi umum tentang kopi, berikut adalah beberapa elemen yang sering digunakan dalam merangkum karakteristik kopi:
+Asal: Ini mencakup negara atau wilayah tempat kopi ditanam. Setiap tempat memiliki kondisi iklim, tanah, dan varietas tanaman kopi yang unik, yang mempengaruhi rasa dan aroma biji kopi.
+Varietas: Banyak jenis kopi yang berbeda, dengan varietas yang paling umum adalah Arabika dan Robusta. Masing-masing varietas memiliki karakteristik rasa dan aroma yang khas.
+Pemrosesan: Cara biji kopi diproses setelah panen memengaruhi rasa dan aroma akhirnya. Pemrosesan kering (natural) dan basah (washed) adalah dua metode pemrosesan utama yang digunakan.
+Rasa: Ini merujuk pada pengalaman sensorik saat meminum kopi. Beberapa ciri rasa yang sering diidentifikasi termasuk manis, asam, pahit, buah-buahan, coklat, bunga, atau rempah-rempah.
+Aroma: Aroma kopi dapat mencakup berbagai hal, mulai dari buah-buahan dan bunga hingga rempah-rempah dan cokelat. Aroma yang kuat dan kompleks sering kali menjadi ciri kopi berkualitas tinggi.
+Tubuh: Ini merujuk pada tekstur atau keberatannya dalam mulut. Kopi bisa memiliki tubuh yang ringan, sedang, atau berat, tergantung pada berbagai faktor, termasuk cara dipanggang dan kepadatannya.
+Aftertaste: Ini adalah sensasi yang tertinggal di lidah setelah menelan kopi. Aftertaste bisa berupa manis, pahit, atau asam, dan bisa bertahan sebentar atau bahkan beberapa menit setelah minum kopi.
+Ketajaman: Merujuk pada seberapa jelas dan intens rasa kopi tersebut terasa di lidah. Kopi yang tajam biasanya memiliki rasa dan aroma yang jelas dan terdefinisi dengan baik.
+Kecukupan: Ini mengacu pada kesan keseluruhan tentang seberapa memuaskan pengalaman meminum kopi tersebut. Kecukupan mencakup semua aspek di atas, serta faktor-faktor seperti keseimbangan dan kompleksitas.
+Ketika mendeskripsikan sebuah kopi, orang sering menggunakan kombinasi dari elemen-elemen di atas untuk memberikan gambaran yang lengkap tentang karakteristik rasa, aroma, dan pengalaman keseluruhan dari kopi tersebut.</string>
+    <string name="title_activity_detail">Detail</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
